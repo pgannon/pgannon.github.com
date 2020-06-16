@@ -16,7 +16,7 @@ body {
 
 hr {
     max-width: 50px;
-    border-color: #AA0000;
+    border-color: #660000;
     border-width: 3px;
 }
 
@@ -56,7 +56,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #ffffff;
+    background-color: #000;
 }
 
 .bg-primary2 {
@@ -73,7 +73,7 @@ p {
 }
 
 section {
-    padding: 100px 0;
+    padding: 35px 0;
 }
 
 aside {
@@ -87,7 +87,7 @@ aside {
 .navbar-default {
     border-color: rgba(34,34,34,.05);
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
-    background-color: #fff;
+    background-color: #000;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -110,7 +110,7 @@ aside {
     text-transform: uppercase;
     font-size: 13px;
     font-weight: 700;
-    color: #222;
+    color: #fff;
 }
 
 .navbar-default .nav > li>a:hover,
@@ -156,7 +156,7 @@ aside {
 
     .navbar-default.affix {
         border-color: rgba(34,34,34,.05);
-        background-color: #fff;
+        background-color: #000;
     }
 
     .navbar-default.affix .navbar-header .navbar-brand {
@@ -216,7 +216,7 @@ header .header-content .header-content-inner p {
     margin-bottom: 50px;
     font-size: 16px;
     font-weight: 300;
-    color: rgba(255,255,255,.7);
+    color: #fff;
 }
 
 @media(min-width:768px) {
@@ -395,7 +395,7 @@ fieldset[disabled] .btn-default.active {
 .btn-primary {
     border-color: #AA0000;
     color: #fff;
-    background-color: #AA0000;
+    background-color: #660000;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
